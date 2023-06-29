@@ -125,4 +125,5 @@ span{
     text-align: center;
     background-color:  hsl(220, 12%, 20%);
     border-radius: 16px;
+    display: none;
 }
