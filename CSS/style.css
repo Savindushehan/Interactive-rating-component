@@ -85,6 +85,7 @@ span{
     font-size: 16px;
     cursor: pointer;
     letter-spacing: 4px;
+    outline: none;
 }
 #s1{
     margin-left: 0;
